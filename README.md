@@ -48,6 +48,7 @@ Shareable results via URL
 Custom word lists and difficulty levels
 
 Multiplayer typing race mode (via WebSocket)
+```
 
 📦 Deployment
 Easily deployable to Vercel with one click.
