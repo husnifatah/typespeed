@@ -40,4 +40,17 @@ npm run dev
 # 4. Open in browser
 http://localhost:3000
 
+🧩 Future Improvements
+Custom themes and color palettes
 
+Shareable results via URL
+
+Custom word lists and difficulty levels
+
+Multiplayer typing race mode (via WebSocket)
+
+📦 Deployment
+Easily deployable to Vercel with one click.
+
+📄 License
+MIT ©husnifatah
